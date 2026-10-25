@@ -1,0 +1,302 @@
+[
+    {
+        "id": 46,
+        "type": "ntx_service",
+        "slug": "digital-advertising",
+        "path": "/services/digital-advertising/",
+        "title": "Digital Advertising",
+        "excerpt": "Reach the right people, generate quality leads, and grow sales through targeted advertising.",
+        "content": "",
+        "date": "2026-10-17T15:56:50+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "admin",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 46,
+            "ar": 95
+        },
+        "meta": {
+            "ntx_icon": "5"
+        }
+    },
+    {
+        "id": 95,
+        "type": "ntx_service",
+        "slug": "الإعلانات-الرقمية",
+        "path": "/ar/services/الإعلانات-الرقمية/",
+        "title": "الإعلانات الرقمية",
+        "excerpt": "نصل إلى الأشخاص المناسبين، ونولّد عملاء محتملين ذوي جودة، وننمّي المبيعات عبر الإعلانات المستهدفة.",
+        "content": "",
+        "date": "2026-10-17T15:56:50+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 95,
+            "en": 46
+        },
+        "meta": {
+            "ntx_icon": "5"
+        }
+    },
+    {
+        "id": 44,
+        "type": "ntx_service",
+        "slug": "branding-creative-design",
+        "path": "/services/branding-creative-design/",
+        "title": "Branding & Creative Design",
+        "excerpt": "Create a memorable brand identity with powerful visuals and creative storytelling.",
+        "content": "",
+        "date": "2026-10-17T15:56:43+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 44,
+            "ar": 93
+        },
+        "meta": {
+            "ntx_icon": "1"
+        }
+    },
+    {
+        "id": 93,
+        "type": "ntx_service",
+        "slug": "الهوية-التجارية-والتصميم-الإبداعي",
+        "path": "/ar/services/الهوية-التجارية-والتصميم-الإبداعي/",
+        "title": "الهوية التجارية والتصميم الإبداعي",
+        "excerpt": "ابنِ هوية تجارية لا تُنسى بعناصر بصرية قوية وسرد إبداعي.",
+        "content": "",
+        "date": "2026-10-17T15:56:43+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 93,
+            "en": 44
+        },
+        "meta": {
+            "ntx_icon": "1"
+        }
+    },
+    {
+        "id": 45,
+        "type": "ntx_service",
+        "slug": "web-design-development",
+        "path": "/services/web-design-development/",
+        "title": "Web Design & Development",
+        "excerpt": "Build modern, responsive websites that turn visitors into potential customers.",
+        "content": "",
+        "date": "2026-10-17T15:56:46+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 45,
+            "ar": 94
+        },
+        "meta": {
+            "ntx_icon": "2"
+        }
+    },
+    {
+        "id": 94,
+        "type": "ntx_service",
+        "slug": "تصميم-وتطوير-المواقع",
+        "path": "/ar/services/تصميم-وتطوير-المواقع/",
+        "title": "تصميم وتطوير المواقع",
+        "excerpt": "نبني مواقع حديثة ومتجاوبة تحوّل الزوار إلى عملاء محتملين.",
+        "content": "",
+        "date": "2026-10-17T15:56:46+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 94,
+            "en": 45
+        },
+        "meta": {
+            "ntx_icon": "2"
+        }
+    },
+    {
+        "id": 43,
+        "type": "ntx_service",
+        "slug": "ui-ux-design",
+        "path": "/services/ui-ux-design/",
+        "title": "UI/UX Design",
+        "excerpt": "We design easy-to-use websites and apps that help visitors find what they need, contact your business, and become customers.",
+        "content": "",
+        "date": "2026-10-17T15:56:40+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 4,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 43,
+            "ar": 92
+        },
+        "meta": {
+            "ntx_icon": "0"
+        }
+    },
+    {
+        "id": 92,
+        "type": "ntx_service",
+        "slug": "تصميم-الواجهات-وتجربة-المستخدم",
+        "path": "/ar/services/تصميم-الواجهات-وتجربة-المستخدم/",
+        "title": "تصميم الواجهات وتجربة المستخدم",
+        "excerpt": "نصمّم مواقع وتطبيقات سهلة الاستخدام تساعد الزوار على إيجاد ما يحتاجونه والتواصل مع نشاطك التجاري وأن يصبحوا عملاء.",
+        "content": "",
+        "date": "2026-10-17T15:56:40+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 4,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 92,
+            "en": 43
+        },
+        "meta": {
+            "ntx_icon": "0"
+        }
+    },
+    {
+        "id": 47,
+        "type": "ntx_service",
+        "slug": "social-media-marketing",
+        "path": "/services/social-media-marketing/",
+        "title": "Social Media Marketing",
+        "excerpt": "Connect with your audience, build trust, and grow your brand across social platforms.",
+        "content": "",
+        "date": "2026-10-17T15:56:52+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 5,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 47,
+            "ar": 96
+        },
+        "meta": {
+            "ntx_icon": "4"
+        }
+    },
+    {
+        "id": 96,
+        "type": "ntx_service",
+        "slug": "التسويق-عبر-وسائل-التواصل-الاجتماعي",
+        "path": "/ar/services/التسويق-عبر-وسائل-التواصل-الاجتماعي/",
+        "title": "التسويق عبر وسائل التواصل الاجتماعي",
+        "excerpt": "تواصل مع جمهورك، وابنِ الثقة، وانمِ بعلامتك التجارية عبر منصات التواصل الاجتماعي.",
+        "content": "",
+        "date": "2026-10-17T15:56:52+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 5,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 96,
+            "en": 47
+        },
+        "meta": {
+            "ntx_icon": "4"
+        }
+    },
+    {
+        "id": 48,
+        "type": "ntx_service",
+        "slug": "search-engine-optimization",
+        "path": "/services/search-engine-optimization/",
+        "title": "Search Engine Optimization",
+        "excerpt": "Improve your Google visibility and attract more customers through organic search.",
+        "content": "",
+        "date": "2026-10-17T15:56:54+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 6,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 48,
+            "ar": 97
+        },
+        "meta": {
+            "ntx_icon": "5"
+        }
+    },
+    {
+        "id": 97,
+        "type": "ntx_service",
+        "slug": "تحسين-محركات-البحث",
+        "path": "/ar/services/تحسين-محركات-البحث/",
+        "title": "تحسين محركات البحث",
+        "excerpt": "حسّن ظهورك في جوجل واجذب المزيد من العملاء عبر البحث العضوي.",
+        "content": "",
+        "date": "2026-10-17T15:56:54+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 6,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 97,
+            "en": 48
+        },
+        "meta": {
+            "ntx_icon": "5"
+        }
+    }
+]

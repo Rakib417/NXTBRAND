@@ -1,0 +1,142 @@
+{
+    "locations": {
+        "footer": 0,
+        "primary": 54
+    },
+    "menus": [
+        {
+            "id": 7,
+            "name": "Primary",
+            "slug": "primary",
+            "items": [
+                {
+                    "id": 154,
+                    "parent": 0,
+                    "title": "Home",
+                    "url": "/",
+                    "target": "",
+                    "classes": [],
+                    "object": "custom",
+                    "objectId": 154
+                },
+                {
+                    "id": 155,
+                    "parent": 0,
+                    "title": "About",
+                    "url": "/about/",
+                    "target": "",
+                    "classes": [],
+                    "object": "page",
+                    "objectId": 7
+                },
+                {
+                    "id": 156,
+                    "parent": 0,
+                    "title": "Services",
+                    "url": "/services/",
+                    "target": "",
+                    "classes": [],
+                    "object": "custom",
+                    "objectId": 156
+                },
+                {
+                    "id": 157,
+                    "parent": 0,
+                    "title": "Portfolio",
+                    "url": "/projects/",
+                    "target": "",
+                    "classes": [],
+                    "object": "custom",
+                    "objectId": 157
+                },
+                {
+                    "id": 158,
+                    "parent": 0,
+                    "title": "Blog",
+                    "url": "/blog/",
+                    "target": "",
+                    "classes": [],
+                    "object": "page",
+                    "objectId": 6
+                },
+                {
+                    "id": 159,
+                    "parent": 0,
+                    "title": "Contact",
+                    "url": "/contact/",
+                    "target": "",
+                    "classes": [],
+                    "object": "page",
+                    "objectId": 9
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Primary AR",
+            "slug": "primary-ar",
+            "items": [
+                {
+                    "id": 163,
+                    "parent": 0,
+                    "title": "الرئيسية",
+                    "url": "/ar/الرئيسية/",
+                    "target": "",
+                    "classes": [],
+                    "object": "custom",
+                    "objectId": 163
+                },
+                {
+                    "id": 164,
+                    "parent": 0,
+                    "title": "من نحن",
+                    "url": "/ar/من-نحن/",
+                    "target": "",
+                    "classes": [],
+                    "object": "page",
+                    "objectId": 84
+                },
+                {
+                    "id": 165,
+                    "parent": 0,
+                    "title": "الخدمات",
+                    "url": "/ar/services/",
+                    "target": "",
+                    "classes": [],
+                    "object": "custom",
+                    "objectId": 165
+                },
+                {
+                    "id": 166,
+                    "parent": 0,
+                    "title": "أعمالنا",
+                    "url": "/ar/projects/",
+                    "target": "",
+                    "classes": [],
+                    "object": "custom",
+                    "objectId": 166
+                },
+                {
+                    "id": 167,
+                    "parent": 0,
+                    "title": "المدونة",
+                    "url": "/ar/المدونة/",
+                    "target": "",
+                    "classes": [],
+                    "object": "page",
+                    "objectId": 82
+                },
+                {
+                    "id": 168,
+                    "parent": 0,
+                    "title": "اتصل بنا",
+                    "url": "/ar/اتصل-بنا/",
+                    "target": "",
+                    "classes": [],
+                    "object": "page",
+                    "objectId": 88
+                }
+            ]
+        }
+    ]
+}

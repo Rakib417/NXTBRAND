@@ -1,0 +1,696 @@
+{
+    "defaultLang": "en-US",
+    "defaultDir": "ltr",
+    "notFound": "_404.json",
+    "routes": [
+        {
+            "path": "/",
+            "segments": [],
+            "file": "index.json",
+            "title": "NXTBRAND | Digital Marketing & Creative Agency",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/5-digital-marketing-tips-for-small-businesses/",
+            "segments": [
+                "5-digital-marketing-tips-for-small-businesses"
+            ],
+            "file": "5-digital-marketing-tips-for-small-businesses.json",
+            "title": "5 Digital Marketing Tips for Small Businesses – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/about/",
+            "segments": [
+                "about"
+            ],
+            "file": "about.json",
+            "title": "About – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/ar/",
+            "segments": [
+                "ar"
+            ],
+            "file": "ar.json",
+            "title": "NXTBRAND | وكالة تسويق رقمي وإبداع",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/5-نصائح-للتسويق-الرقمي-للشركات-الصغيرة/",
+            "segments": [
+                "ar",
+                "5-نصائح-للتسويق-الرقمي-للشركات-الصغيرة"
+            ],
+            "file": "ar__5-71bb262d.json",
+            "title": "5 نصائح للتسويق الرقمي للشركات الصغيرة – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/category/digital-marketing-ar/",
+            "segments": [
+                "ar",
+                "category",
+                "digital-marketing-ar"
+            ],
+            "file": "ar__category__digital-marketing-ar.json",
+            "title": "التسويق الرقمي – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/category/seo-ar/",
+            "segments": [
+                "ar",
+                "category",
+                "seo-ar"
+            ],
+            "file": "ar__category__seo-ar.json",
+            "title": "تحسين محركات البحث – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/category/social-media-ar/",
+            "segments": [
+                "ar",
+                "category",
+                "social-media-ar"
+            ],
+            "file": "ar__category__social-media-ar.json",
+            "title": "وسائل التواصل الاجتماعي – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/category/الهوية-التجارية-ar/",
+            "segments": [
+                "ar",
+                "category",
+                "الهوية-التجارية-ar"
+            ],
+            "file": "ar__category__ar-ecde2554.json",
+            "title": "الهوية التجارية – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/category/تصميم-المواقع-ar/",
+            "segments": [
+                "ar",
+                "category",
+                "تصميم-المواقع-ar"
+            ],
+            "file": "ar__category__ar-6da4f0ac.json",
+            "title": "تصميم المواقع – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/projects/",
+            "segments": [
+                "ar",
+                "projects"
+            ],
+            "file": "ar__projects.json",
+            "title": "Projects – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/projects/علامة-تجارية-تتميّز/",
+            "segments": [
+                "ar",
+                "projects",
+                "علامة-تجارية-تتميّز"
+            ],
+            "file": "ar__projects-bb65589f.json",
+            "title": "علامة تجارية تتميّز – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/projects/محتوى-إبداعي-يتواصل-مع-الجمهور/",
+            "segments": [
+                "ar",
+                "projects",
+                "محتوى-إبداعي-يتواصل-مع-الجمهور"
+            ],
+            "file": "ar__projects-f30cf340.json",
+            "title": "محتوى إبداعي يتواصل مع الجمهور – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/projects/موطن-رقمي-أفضل-لعلامتك-التجارية/",
+            "segments": [
+                "ar",
+                "projects",
+                "موطن-رقمي-أفضل-لعلامتك-التجارية"
+            ],
+            "file": "ar__projects-0daffc1f.json",
+            "title": "موطن رقمي أفضل لعلامتك التجارية – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/projects/نجعل-كل-تفاعل-أسهل/",
+            "segments": [
+                "ar",
+                "projects",
+                "نجعل-كل-تفاعل-أسهل"
+            ],
+            "file": "ar__projects-03ab46f4.json",
+            "title": "نجعل كل تفاعل أسهل – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/services/",
+            "segments": [
+                "ar",
+                "services"
+            ],
+            "file": "ar__services.json",
+            "title": "Services – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/services/الإعلانات-الرقمية/",
+            "segments": [
+                "ar",
+                "services",
+                "الإعلانات-الرقمية"
+            ],
+            "file": "ar__services-62ba0d34.json",
+            "title": "الإعلانات الرقمية – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/services/التسويق-عبر-وسائل-التواصل-الاجتماعي/",
+            "segments": [
+                "ar",
+                "services",
+                "التسويق-عبر-وسائل-التواصل-الاجتماعي"
+            ],
+            "file": "ar__services-ebc6e3d0.json",
+            "title": "التسويق عبر وسائل التواصل الاجتماعي – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/services/الهوية-التجارية-والتصميم-الإبداعي/",
+            "segments": [
+                "ar",
+                "services",
+                "الهوية-التجارية-والتصميم-الإبداعي"
+            ],
+            "file": "ar__services-85bf42f2.json",
+            "title": "الهوية التجارية والتصميم الإبداعي – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/services/تحسين-محركات-البحث/",
+            "segments": [
+                "ar",
+                "services",
+                "تحسين-محركات-البحث"
+            ],
+            "file": "ar__services-676f2e46.json",
+            "title": "تحسين محركات البحث – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/services/تصميم-الواجهات-وتجربة-المستخدم/",
+            "segments": [
+                "ar",
+                "services",
+                "تصميم-الواجهات-وتجربة-المستخدم"
+            ],
+            "file": "ar__services-150132f9.json",
+            "title": "تصميم الواجهات وتجربة المستخدم – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/services/تصميم-وتطوير-المواقع/",
+            "segments": [
+                "ar",
+                "services",
+                "تصميم-وتطوير-المواقع"
+            ],
+            "file": "ar__services-bf10762c.json",
+            "title": "تصميم وتطوير المواقع – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/أبرز-10-اتجاهات-في-وسائل-التواصل-الاجتما/",
+            "segments": [
+                "ar",
+                "أبرز-10-اتجاهات-في-وسائل-التواصل-الاجتما"
+            ],
+            "file": "ar__10-9f05e381.json",
+            "title": "أبرز 10 اتجاهات في وسائل التواصل الاجتماعي لعام 2024 – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/اتصل-بنا/",
+            "segments": [
+                "ar",
+                "اتصل-بنا"
+            ],
+            "file": "ar-670d2301.json",
+            "title": "اتصل بنا – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/الأسعار/",
+            "segments": [
+                "ar",
+                "الأسعار"
+            ],
+            "file": "ar-3e5570ea.json",
+            "title": "الأسعار – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/الرئيسية/",
+            "segments": [
+                "ar",
+                "الرئيسية"
+            ],
+            "file": "ar-2939172e.json",
+            "title": "NXTBRAND | وكالة تسويق رقمي وإبداع",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/المدونة/",
+            "segments": [
+                "ar",
+                "المدونة"
+            ],
+            "file": "ar-3b19f62a.json",
+            "title": "المدونة – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/تفنيد-خرافات-تحسين-محركات-البحث-ما-تحت/",
+            "segments": [
+                "ar",
+                "تفنيد-خرافات-تحسين-محركات-البحث-ما-تحت"
+            ],
+            "file": "ar-7a7899fa.json",
+            "title": "تفنيد خرافات تحسين محركات البحث: ما تحتاج إلى معرفته حقاً – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/دور-التسويق-عبر-المؤثرين-في-2024/",
+            "segments": [
+                "ar",
+                "دور-التسويق-عبر-المؤثرين-في-2024"
+            ],
+            "file": "ar__2024-12a4c4cc.json",
+            "title": "دور التسويق عبر المؤثرين في 2024 – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/سياسة-الخصوصية/",
+            "segments": [
+                "ar",
+                "سياسة-الخصوصية"
+            ],
+            "file": "ar-55ec9a5e.json",
+            "title": "سياسة الخصوصية – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/شروط-الاستخدام/",
+            "segments": [
+                "ar",
+                "شروط-الاستخدام"
+            ],
+            "file": "ar-063ae61c.json",
+            "title": "شروط الاستخدام – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/كيف-يساعد-الموقع-الأفضل-عملك-على-النمو/",
+            "segments": [
+                "ar",
+                "كيف-يساعد-الموقع-الأفضل-عملك-على-النمو"
+            ],
+            "file": "ar-e7c2dbf5.json",
+            "title": "كيف يساعد الموقع الأفضل عملك على النمو – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/كيف-يمكن-للتسويق-متعدد-القنوات-أن-يحوّ/",
+            "segments": [
+                "ar",
+                "كيف-يمكن-للتسويق-متعدد-القنوات-أن-يحوّ"
+            ],
+            "file": "ar-63d1ef73.json",
+            "title": "كيف يمكن للتسويق متعدد القنوات أن يحوّل نمو أعمالك – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/لماذا-تهم-الهوية-التجارية-القوية/",
+            "segments": [
+                "ar",
+                "لماذا-تهم-الهوية-التجارية-القوية"
+            ],
+            "file": "ar-250f20f7.json",
+            "title": "لماذا تهم الهوية التجارية القوية – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/ar/من-نحن/",
+            "segments": [
+                "ar",
+                "من-نحن"
+            ],
+            "file": "ar-8f9a1eea.json",
+            "title": "من نحن – NXTBRAND",
+            "lang": "ar",
+            "dir": "rtl"
+        },
+        {
+            "path": "/blog/",
+            "segments": [
+                "blog"
+            ],
+            "file": "blog.json",
+            "title": "Blog – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/category/branding/",
+            "segments": [
+                "category",
+                "branding"
+            ],
+            "file": "category__branding.json",
+            "title": "Branding – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/category/digital-marketing/",
+            "segments": [
+                "category",
+                "digital-marketing"
+            ],
+            "file": "category__digital-marketing.json",
+            "title": "Digital Marketing – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/category/seo/",
+            "segments": [
+                "category",
+                "seo"
+            ],
+            "file": "category__seo.json",
+            "title": "SEO – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/category/social-media/",
+            "segments": [
+                "category",
+                "social-media"
+            ],
+            "file": "category__social-media.json",
+            "title": "Social Media – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/category/web-design/",
+            "segments": [
+                "category",
+                "web-design"
+            ],
+            "file": "category__web-design.json",
+            "title": "Web Design – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/contact/",
+            "segments": [
+                "contact"
+            ],
+            "file": "contact.json",
+            "title": "Contact – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/how-a-better-website-helps-your-business-grow/",
+            "segments": [
+                "how-a-better-website-helps-your-business-grow"
+            ],
+            "file": "how-a-better-website-helps-your-business-grow.json",
+            "title": "How a Better Website Helps Your Business Grow – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/how-multi-channel-marketing-can-transform-your-business-growth/",
+            "segments": [
+                "how-multi-channel-marketing-can-transform-your-business-growth"
+            ],
+            "file": "how-multi-channel-marketing-can-transform-your-business-growth.json",
+            "title": "How Multi-Channel Marketing Can Transform Your Business Growth – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/pricing/",
+            "segments": [
+                "pricing"
+            ],
+            "file": "pricing.json",
+            "title": "Pricing – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/privacy-policy/",
+            "segments": [
+                "privacy-policy"
+            ],
+            "file": "privacy-policy.json",
+            "title": "Privacy policy – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/projects/",
+            "segments": [
+                "projects"
+            ],
+            "file": "projects.json",
+            "title": "Projects – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/projects/brand-identity-design/",
+            "segments": [
+                "projects",
+                "brand-identity-design"
+            ],
+            "file": "projects__brand-identity-design.json",
+            "title": "A Brand Built to Stand Out – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/projects/social-media-campaign/",
+            "segments": [
+                "projects",
+                "social-media-campaign"
+            ],
+            "file": "projects__social-media-campaign.json",
+            "title": "Creative Content That Connects – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/projects/ui-ux-design-project/",
+            "segments": [
+                "projects",
+                "ui-ux-design-project"
+            ],
+            "file": "projects__ui-ux-design-project.json",
+            "title": "Making Every Interaction Easier – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/projects/website-development/",
+            "segments": [
+                "projects",
+                "website-development"
+            ],
+            "file": "projects__website-development.json",
+            "title": "A Better Digital Home for Your Brand – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/seo-myths-debunked-what-you-really-need-to-know/",
+            "segments": [
+                "seo-myths-debunked-what-you-really-need-to-know"
+            ],
+            "file": "seo-myths-debunked-what-you-really-need-to-know.json",
+            "title": "SEO Myths Debunked: What You Really Need to Know – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/services/",
+            "segments": [
+                "services"
+            ],
+            "file": "services.json",
+            "title": "Services – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/services/branding-creative-design/",
+            "segments": [
+                "services",
+                "branding-creative-design"
+            ],
+            "file": "services__branding-creative-design.json",
+            "title": "Branding & Creative Design – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/services/digital-advertising/",
+            "segments": [
+                "services",
+                "digital-advertising"
+            ],
+            "file": "services__digital-advertising.json",
+            "title": "Digital Advertising – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/services/search-engine-optimization/",
+            "segments": [
+                "services",
+                "search-engine-optimization"
+            ],
+            "file": "services__search-engine-optimization.json",
+            "title": "Search Engine Optimization – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/services/social-media-marketing/",
+            "segments": [
+                "services",
+                "social-media-marketing"
+            ],
+            "file": "services__social-media-marketing.json",
+            "title": "Social Media Marketing – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/services/ui-ux-design/",
+            "segments": [
+                "services",
+                "ui-ux-design"
+            ],
+            "file": "services__ui-ux-design.json",
+            "title": "UI/UX Design – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/services/web-design-development/",
+            "segments": [
+                "services",
+                "web-design-development"
+            ],
+            "file": "services__web-design-development.json",
+            "title": "Web Design & Development – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/terms-of-use/",
+            "segments": [
+                "terms-of-use"
+            ],
+            "file": "terms-of-use.json",
+            "title": "Terms of use – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/the-role-of-influencer-marketing-in-2024/",
+            "segments": [
+                "the-role-of-influencer-marketing-in-2024"
+            ],
+            "file": "the-role-of-influencer-marketing-in-2024.json",
+            "title": "The Role of Influencer Marketing in 2024 – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/top-10-social-media-trends-to-watch-in-2024/",
+            "segments": [
+                "top-10-social-media-trends-to-watch-in-2024"
+            ],
+            "file": "top-10-social-media-trends-to-watch-in-2024.json",
+            "title": "Top 10 Social Media Trends to Watch in 2024 – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/why-a-strong-brand-identity-matters/",
+            "segments": [
+                "why-a-strong-brand-identity-matters"
+            ],
+            "file": "why-a-strong-brand-identity-matters.json",
+            "title": "Why a Strong Brand Identity Matters – NXTBRAND",
+            "lang": "en-US",
+            "dir": "ltr"
+        }
+    ]
+}

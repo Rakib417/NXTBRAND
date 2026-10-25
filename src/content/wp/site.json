@@ -1,0 +1,30 @@
+{
+    "name": "NXTBRAND",
+    "description": "Digital Marketing & Creative Agency",
+    "url": "/",
+    "language": "ar",
+    "rtl": true,
+    "languages": [
+        {
+            "code": "en",
+            "name": "English",
+            "locale": "en_US",
+            "rtl": false,
+            "home": "/",
+            "default": true
+        },
+        {
+            "code": "ar",
+            "name": "العربية",
+            "locale": "ar",
+            "rtl": true,
+            "home": "/ar/الرئيسية/",
+            "default": false
+        }
+    ],
+    "logo": null,
+    "icon": null,
+    "frontPage": 80,
+    "postsPage": 82,
+    "theme": "NXT"
+}

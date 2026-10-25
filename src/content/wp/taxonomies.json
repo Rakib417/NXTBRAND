@@ -1,0 +1,101 @@
+{
+    "category": [
+        {
+            "id": 58,
+            "name": "Branding",
+            "slug": "branding",
+            "parent": 0,
+            "count": 1,
+            "path": "/category/branding/"
+        },
+        {
+            "id": 4,
+            "name": "Digital Marketing",
+            "slug": "digital-marketing",
+            "parent": 0,
+            "count": 2,
+            "path": "/category/digital-marketing/"
+        },
+        {
+            "id": 6,
+            "name": "SEO",
+            "slug": "seo",
+            "parent": 0,
+            "count": 1,
+            "path": "/category/seo/"
+        },
+        {
+            "id": 5,
+            "name": "Social Media",
+            "slug": "social-media",
+            "parent": 0,
+            "count": 2,
+            "path": "/category/social-media/"
+        },
+        {
+            "id": 1,
+            "name": "Uncategorized",
+            "slug": "uncategorized",
+            "parent": 0,
+            "count": 0,
+            "path": "/category/uncategorized/"
+        },
+        {
+            "id": 14,
+            "name": "Uncategorized",
+            "slug": "uncategorized-ar",
+            "parent": 0,
+            "count": 0,
+            "path": "/ar/category/uncategorized-ar/"
+        },
+        {
+            "id": 56,
+            "name": "Web Design",
+            "slug": "web-design",
+            "parent": 0,
+            "count": 1,
+            "path": "/category/web-design/"
+        },
+        {
+            "id": 39,
+            "name": "التسويق الرقمي",
+            "slug": "digital-marketing-ar",
+            "parent": 0,
+            "count": 2,
+            "path": "/ar/category/digital-marketing-ar/"
+        },
+        {
+            "id": 64,
+            "name": "الهوية التجارية",
+            "slug": "الهوية-التجارية-ar",
+            "parent": 0,
+            "count": 1,
+            "path": "/ar/category/الهوية-التجارية-ar/"
+        },
+        {
+            "id": 47,
+            "name": "تحسين محركات البحث",
+            "slug": "seo-ar",
+            "parent": 0,
+            "count": 1,
+            "path": "/ar/category/seo-ar/"
+        },
+        {
+            "id": 60,
+            "name": "تصميم المواقع",
+            "slug": "تصميم-المواقع-ar",
+            "parent": 0,
+            "count": 1,
+            "path": "/ar/category/تصميم-المواقع-ar/"
+        },
+        {
+            "id": 43,
+            "name": "وسائل التواصل الاجتماعي",
+            "slug": "social-media-ar",
+            "parent": 0,
+            "count": 2,
+            "path": "/ar/category/social-media-ar/"
+        }
+    ],
+    "post_tag": []
+}

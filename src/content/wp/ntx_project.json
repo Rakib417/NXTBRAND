@@ -1,0 +1,234 @@
+[
+    {
+        "id": 52,
+        "type": "ntx_project",
+        "slug": "brand-identity-design",
+        "path": "/projects/brand-identity-design/",
+        "title": "A Brand Built to Stand Out",
+        "excerpt": "Creating a consistent visual identity that helps a business look professional and memorable.",
+        "content": "",
+        "date": "2026-10-17T15:57:50+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 52,
+            "ar": 101
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "Branding · Visual Identity"
+        }
+    },
+    {
+        "id": 101,
+        "type": "ntx_project",
+        "slug": "علامة-تجارية-تتميّز",
+        "path": "/ar/projects/علامة-تجارية-تتميّز/",
+        "title": "علامة تجارية تتميّز",
+        "excerpt": "ابتكار هوية بصرية متسقة تساعد الشركة على الظهور بشكل احترافي وتبقى في الذاكرة.",
+        "content": "",
+        "date": "2026-10-17T15:57:50+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 101,
+            "en": 52
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "العلامة التجارية · الهوية البصرية"
+        }
+    },
+    {
+        "id": 50,
+        "type": "ntx_project",
+        "slug": "social-media-campaign",
+        "path": "/projects/social-media-campaign/",
+        "title": "Creative Content That Connects",
+        "excerpt": "Designing engaging social media visuals that communicate brand messages and capture attention.",
+        "content": "",
+        "date": "2026-10-17T15:57:16+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 50,
+            "ar": 99
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "Social Media · Creative Design"
+        }
+    },
+    {
+        "id": 99,
+        "type": "ntx_project",
+        "slug": "محتوى-إبداعي-يتواصل-مع-الجمهور",
+        "path": "/ar/projects/محتوى-إبداعي-يتواصل-مع-الجمهور/",
+        "title": "محتوى إبداعي يتواصل مع الجمهور",
+        "excerpt": "تصميم مرئيات جذابة لوسائل التواصل الاجتماعي تنقل رسائل العلامة التجارية وتلفت الانتباه.",
+        "content": "",
+        "date": "2026-10-17T15:57:16+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 99,
+            "en": 50
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "التواصل الاجتماعي · التصميم الإبداعي"
+        }
+    },
+    {
+        "id": 51,
+        "type": "ntx_project",
+        "slug": "ui-ux-design-project",
+        "path": "/projects/ui-ux-design-project/",
+        "title": "Making Every Interaction Easier",
+        "excerpt": "Designing clean, intuitive digital interfaces that help users navigate and take action.",
+        "content": "",
+        "date": "2026-10-17T15:57:35+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 51,
+            "ar": 100
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "UI/UX · Product Design"
+        }
+    },
+    {
+        "id": 100,
+        "type": "ntx_project",
+        "slug": "نجعل-كل-تفاعل-أسهل",
+        "path": "/ar/projects/نجعل-كل-تفاعل-أسهل/",
+        "title": "نجعل كل تفاعل أسهل",
+        "excerpt": "تصميم واجهات رقمية نظيفة وبديهية تساعد المستخدمين على التنقل واتخاذ الإجراء.",
+        "content": "",
+        "date": "2026-10-17T15:57:35+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 100,
+            "en": 51
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "تجربة المستخدم · تصميم المنتجات"
+        }
+    },
+    {
+        "id": 49,
+        "type": "ntx_project",
+        "slug": "website-development",
+        "path": "/projects/website-development/",
+        "title": "A Better Digital Home for Your Brand",
+        "excerpt": "Creating a modern, responsive website that makes it easy for visitors to explore a business.",
+        "content": "",
+        "date": "2026-10-17T15:56:57+00:00",
+        "modified": "2026-10-25T12:27:03+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 4,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 49,
+            "ar": 98
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "Web Design · Development"
+        }
+    },
+    {
+        "id": 98,
+        "type": "ntx_project",
+        "slug": "موطن-رقمي-أفضل-لعلامتك-التجارية",
+        "path": "/ar/projects/موطن-رقمي-أفضل-لعلامتك-التجارية/",
+        "title": "موطن رقمي أفضل لعلامتك التجارية",
+        "excerpt": "إنشاء موقع حديث ومتجاوب يسهّل على الزوار استكشاف النشاط التجاري.",
+        "content": "",
+        "date": "2026-10-17T15:56:57+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 4,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 98,
+            "en": 49
+        },
+        "meta": {
+            "ntx_stat1_label": "",
+            "ntx_stat1_value": "",
+            "ntx_stat2_label": "",
+            "ntx_stat2_value": "",
+            "ntx_tag": "تصميم الويب · التطوير"
+        }
+    }
+]

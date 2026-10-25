@@ -1,0 +1,37 @@
+/* ==========================================================================
+   NXT — Arabic / right-to-left adjustments.
+   Loaded after main-rtl.css (generated from main.css by bin/build-rtl.sh).
+   ========================================================================== */
+
+:root { --font: 'IBM Plex Sans Arabic', 'Inter', system-ui, -apple-system, 'Segoe UI', Tahoma, sans-serif; }
+
+body { line-height: 1.75; }
+h1, h2, h3, h4 { line-height: 1.4; letter-spacing: 0; }
+h1 { font-size: 58px; }
+.ntx-lead, .ntx-head p, .ntx-prose, p { letter-spacing: 0; }
+.ntx-logo { letter-spacing: 0; }
+.ntx-btn, .ntx-pill, .ntx-tag { letter-spacing: 0; }
+
+/* Numbers, prices and stats read left-to-right even inside Arabic text */
+.ntx-stat strong,
+.ntx-plan__price strong,
+.ntx-statpill b { direction: ltr; unicode-bidi: isolate; }
+.ntx-why__num { display: block; direction: ltr; unicode-bidi: isolate; text-align: right; }
+.ntx-plan__price { align-items: baseline; }
+
+/* The client-logo strip is not text: keep its scroll direction and order */
+.ntx-marquee { direction: ltr; }
+@keyframes ntx-marquee { to { transform: translateX(-50%); } }
+
+/* Latin brand name stays tidy next to Arabic */
+.ntx-logo, .ntx-compare__col.is-us h3 { direction: ltr; }
+
+/* Form fields and the email box type right-to-left, but addresses stay left-to-right */
+.ntx-form input[type='email'], .ntx-subscribe input[type='email'] { direction: ltr; text-align: right; }
+.ntx-form input[type='email']::placeholder, .ntx-subscribe input[type='email']::placeholder { direction: rtl; }
+
+/* Plus/minus icon in the FAQ and the checks keep their position via logical flip in main-rtl.css */
+.ntx-acc summary { text-align: right; }
+
+@media (max-width: 1199px) { h1 { font-size: 50px; } }
+@media (max-width: 809px) { h1 { font-size: 36px; } }

@@ -1,0 +1,436 @@
+[
+    {
+        "id": 162,
+        "type": "post",
+        "slug": "5-نصائح-للتسويق-الرقمي-للشركات-الصغيرة",
+        "path": "/ar/5-نصائح-للتسويق-الرقمي-للشركات-الصغيرة/",
+        "title": "5 نصائح للتسويق الرقمي للشركات الصغيرة",
+        "excerpt": "طرق بسيطة للوصول إلى المزيد من العملاء وتنمية عملك عبر الإنترنت.",
+        "content": "<p>طرق بسيطة للوصول إلى المزيد من العملاء وتنمية عملك عبر الإنترنت.</p>\n",
+        "date": "2026-10-25T13:00:58+00:00",
+        "modified": "2026-10-25T13:00:58+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 39,
+                    "name": "التسويق الرقمي",
+                    "slug": "digital-marketing-ar"
+                }
+            ]
+        },
+        "lang": "ar",
+        "translations": {
+            "ar": 162,
+            "en": 153
+        },
+        "meta": []
+    },
+    {
+        "id": 161,
+        "type": "post",
+        "slug": "لماذا-تهم-الهوية-التجارية-القوية",
+        "path": "/ar/لماذا-تهم-الهوية-التجارية-القوية/",
+        "title": "لماذا تهم الهوية التجارية القوية",
+        "excerpt": "تعرّف على كيف تبني الهوية التجارية الجيدة الثقة وتجعل عملك لا يُنسى.",
+        "content": "<p>تعرّف على كيف تبني الهوية التجارية الجيدة الثقة وتجعل عملك لا يُنسى.</p>\n",
+        "date": "2026-10-25T13:00:57+00:00",
+        "modified": "2026-10-25T13:00:57+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 64,
+                    "name": "الهوية التجارية",
+                    "slug": "%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d8%a9-ar"
+                }
+            ]
+        },
+        "lang": "ar",
+        "translations": {
+            "ar": 161,
+            "en": 152
+        },
+        "meta": []
+    },
+    {
+        "id": 160,
+        "type": "post",
+        "slug": "كيف-يساعد-الموقع-الأفضل-عملك-على-النمو",
+        "path": "/ar/كيف-يساعد-الموقع-الأفضل-عملك-على-النمو/",
+        "title": "كيف يساعد الموقع الأفضل عملك على النمو",
+        "excerpt": "اكتشف لماذا يهم وجود موقع سريع وحديث وسهل الاستخدام لعملائك.",
+        "content": "<p>اكتشف لماذا يهم وجود موقع سريع وحديث وسهل الاستخدام لعملائك.</p>\n",
+        "date": "2026-10-25T13:00:56+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 60,
+                    "name": "تصميم المواقع",
+                    "slug": "%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9-ar"
+                }
+            ]
+        },
+        "lang": "ar",
+        "translations": {
+            "ar": 160,
+            "en": 151
+        },
+        "meta": []
+    },
+    {
+        "id": 153,
+        "type": "post",
+        "slug": "5-digital-marketing-tips-for-small-businesses",
+        "path": "/5-digital-marketing-tips-for-small-businesses/",
+        "title": "5 Digital Marketing Tips for Small Businesses",
+        "excerpt": "Simple ways to reach more customers and grow your business online.",
+        "content": "<p>Simple ways to reach more customers and grow your business online.</p>\n",
+        "date": "2026-10-25T12:24:02+00:00",
+        "modified": "2026-10-25T12:24:02+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 4,
+                    "name": "Digital Marketing",
+                    "slug": "digital-marketing"
+                }
+            ]
+        },
+        "lang": "en",
+        "translations": {
+            "en": 153,
+            "ar": 162
+        },
+        "meta": []
+    },
+    {
+        "id": 152,
+        "type": "post",
+        "slug": "why-a-strong-brand-identity-matters",
+        "path": "/why-a-strong-brand-identity-matters/",
+        "title": "Why a Strong Brand Identity Matters",
+        "excerpt": "Learn how good branding builds trust and makes your business memorable.",
+        "content": "<p>Learn how good branding builds trust and makes your business memorable.</p>\n",
+        "date": "2026-10-25T12:24:00+00:00",
+        "modified": "2026-10-25T12:24:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 58,
+                    "name": "Branding",
+                    "slug": "branding"
+                }
+            ]
+        },
+        "lang": "en",
+        "translations": {
+            "en": 152,
+            "ar": 161
+        },
+        "meta": []
+    },
+    {
+        "id": 151,
+        "type": "post",
+        "slug": "how-a-better-website-helps-your-business-grow",
+        "path": "/how-a-better-website-helps-your-business-grow/",
+        "title": "How a Better Website Helps Your Business Grow",
+        "excerpt": "Discover why a fast, modern, and easy-to-use website matters for your customers.",
+        "content": "<p>Discover why a fast, modern, and easy-to-use website matters for your customers.</p>\n",
+        "date": "2026-10-25T12:23:59+00:00",
+        "modified": "2026-10-25T12:23:59+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 56,
+                    "name": "Web Design",
+                    "slug": "web-design"
+                }
+            ]
+        },
+        "lang": "en",
+        "translations": {
+            "en": 151,
+            "ar": 160
+        },
+        "meta": []
+    },
+    {
+        "id": 59,
+        "type": "post",
+        "slug": "how-multi-channel-marketing-can-transform-your-business-growth",
+        "path": "/how-multi-channel-marketing-can-transform-your-business-growth/",
+        "title": "How Multi-Channel Marketing Can Transform Your Business Growth",
+        "excerpt": "We’ll explore the concept of multi-channel marketing, its key benefits, and how to implement a successful strategy to drive growth for your business.",
+        "content": "<p>Multi-channel marketing meets customers where they already are. In this post we break down how to plan, sequence and measure campaigns across channels.</p>\n",
+        "date": "2024-11-14T09:00:00+00:00",
+        "modified": "2024-11-14T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 4,
+                    "name": "Digital Marketing",
+                    "slug": "digital-marketing"
+                }
+            ]
+        },
+        "lang": "en",
+        "translations": {
+            "en": 59,
+            "ar": 108
+        },
+        "meta": []
+    },
+    {
+        "id": 108,
+        "type": "post",
+        "slug": "كيف-يمكن-للتسويق-متعدد-القنوات-أن-يحوّ",
+        "path": "/ar/كيف-يمكن-للتسويق-متعدد-القنوات-أن-يحوّ/",
+        "title": "كيف يمكن للتسويق متعدد القنوات أن يحوّل نمو أعمالك",
+        "excerpt": "نستعرض مفهوم التسويق متعدد القنوات وفوائده الرئيسية وكيفية تنفيذ استراتيجية ناجحة لدفع نمو أعمالك.",
+        "content": "<p>يلتقي التسويق متعدد القنوات بالعملاء حيث يتواجدون بالفعل. في هذا المقال نشرح كيفية التخطيط للحملات وتسلسلها وقياسها عبر القنوات.</p>\n",
+        "date": "2024-11-14T09:00:00+00:00",
+        "modified": "2026-10-18T09:39:46+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 39,
+                    "name": "التسويق الرقمي",
+                    "slug": "digital-marketing-ar"
+                }
+            ]
+        },
+        "lang": "ar",
+        "translations": {
+            "ar": 108,
+            "en": 59
+        },
+        "meta": []
+    },
+    {
+        "id": 60,
+        "type": "post",
+        "slug": "top-10-social-media-trends-to-watch-in-2024",
+        "path": "/top-10-social-media-trends-to-watch-in-2024/",
+        "title": "Top 10 Social Media Trends to Watch in 2024",
+        "excerpt": "We explore the top 10 social media trends to watch in 2024 and how you can leverage them to grow your brand.",
+        "content": "<p>From short-form video to community-led growth, here are the trends worth your attention and how to act on them.</p>\n",
+        "date": "2024-11-08T09:00:00+00:00",
+        "modified": "2024-11-08T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 5,
+                    "name": "Social Media",
+                    "slug": "social-media"
+                }
+            ]
+        },
+        "lang": "en",
+        "translations": {
+            "en": 60,
+            "ar": 110
+        },
+        "meta": []
+    },
+    {
+        "id": 110,
+        "type": "post",
+        "slug": "أبرز-10-اتجاهات-في-وسائل-التواصل-الاجتما",
+        "path": "/ar/أبرز-10-اتجاهات-في-وسائل-التواصل-الاجتما/",
+        "title": "أبرز 10 اتجاهات في وسائل التواصل الاجتماعي لعام 2024",
+        "excerpt": "نستعرض أبرز 10 اتجاهات في وسائل التواصل الاجتماعي لعام 2024 وكيف تستفيد منها لتنمية علامتك التجارية.",
+        "content": "<p>من الفيديو القصير إلى النمو القائم على المجتمع، إليك الاتجاهات التي تستحق اهتمامك وكيفية التعامل معها.</p>\n",
+        "date": "2024-11-08T09:00:00+00:00",
+        "modified": "2026-10-18T09:39:46+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 43,
+                    "name": "وسائل التواصل الاجتماعي",
+                    "slug": "social-media-ar"
+                }
+            ]
+        },
+        "lang": "ar",
+        "translations": {
+            "ar": 110,
+            "en": 60
+        },
+        "meta": []
+    },
+    {
+        "id": 61,
+        "type": "post",
+        "slug": "the-role-of-influencer-marketing-in-2024",
+        "path": "/the-role-of-influencer-marketing-in-2024/",
+        "title": "The Role of Influencer Marketing in 2024",
+        "excerpt": "We explore why influencer marketing is so powerful in 2024, how businesses can effectively leverage influencers to grow their brand, and how to choose the right influencer for your marketing campaigns.",
+        "content": "<p>Influencer marketing has matured. We look at what works now, what doesn&#8217;t, and how to build partnerships that last.</p>\n",
+        "date": "2024-11-02T09:00:00+00:00",
+        "modified": "2024-11-02T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 5,
+                    "name": "Social Media",
+                    "slug": "social-media"
+                }
+            ]
+        },
+        "lang": "en",
+        "translations": {
+            "en": 61,
+            "ar": 112
+        },
+        "meta": []
+    },
+    {
+        "id": 112,
+        "type": "post",
+        "slug": "دور-التسويق-عبر-المؤثرين-في-2024",
+        "path": "/ar/دور-التسويق-عبر-المؤثرين-في-2024/",
+        "title": "دور التسويق عبر المؤثرين في 2024",
+        "excerpt": "نستعرض أسباب قوة التسويق عبر المؤثرين في 2024، وكيف يمكن للشركات الاستفادة منه لتنمية علاماتها التجارية، وكيفية اختيار المؤثر المناسب لحملاتك التسويقية.",
+        "content": "<p>نضج التسويق عبر المؤثرين. نبحث في ما ينجح الآن وما لا ينجح، وكيفية بناء شراكات تدوم.</p>\n",
+        "date": "2024-11-02T09:00:00+00:00",
+        "modified": "2026-10-18T09:39:46+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 43,
+                    "name": "وسائل التواصل الاجتماعي",
+                    "slug": "social-media-ar"
+                }
+            ]
+        },
+        "lang": "ar",
+        "translations": {
+            "ar": 112,
+            "en": 61
+        },
+        "meta": []
+    },
+    {
+        "id": 62,
+        "type": "post",
+        "slug": "seo-myths-debunked-what-you-really-need-to-know",
+        "path": "/seo-myths-debunked-what-you-really-need-to-know/",
+        "title": "SEO Myths Debunked: What You Really Need to Know",
+        "excerpt": "We’re going to debunk some of the most common SEO myths and provide clarity on what you really need to know in order to optimize your website effectively and improve your search rankings.",
+        "content": "<p>Keyword stuffing, meta keywords, instant rankings: we separate fact from fiction.</p>\n",
+        "date": "2024-11-01T09:00:00+00:00",
+        "modified": "2024-11-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 6,
+                    "name": "SEO",
+                    "slug": "seo"
+                }
+            ]
+        },
+        "lang": "en",
+        "translations": {
+            "en": 62,
+            "ar": 114
+        },
+        "meta": []
+    },
+    {
+        "id": 114,
+        "type": "post",
+        "slug": "تفنيد-خرافات-تحسين-محركات-البحث-ما-تحت",
+        "path": "/ar/تفنيد-خرافات-تحسين-محركات-البحث-ما-تحت/",
+        "title": "تفنيد خرافات تحسين محركات البحث: ما تحتاج إلى معرفته حقاً",
+        "excerpt": "سنفند بعض أكثر خرافات تحسين محركات البحث شيوعاً ونوضح ما تحتاج إلى معرفته حقاً لتحسين موقعك وتحسين ترتيبه في نتائج البحث.",
+        "content": "<p>حشو الكلمات المفتاحية، ووسوم الكلمات المفتاحية، والترتيب الفوري: نفصل الحقيقة عن الخيال.</p>\n",
+        "date": "2024-11-01T09:00:00+00:00",
+        "modified": "2026-10-18T09:39:46+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 47,
+                    "name": "تحسين محركات البحث",
+                    "slug": "seo-ar"
+                }
+            ]
+        },
+        "lang": "ar",
+        "translations": {
+            "ar": 114,
+            "en": 62
+        },
+        "meta": []
+    }
+]

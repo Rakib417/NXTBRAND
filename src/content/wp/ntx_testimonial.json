@@ -1,0 +1,314 @@
+[
+    {
+        "id": 53,
+        "type": "ntx_testimonial",
+        "slug": "honest-communication",
+        "path": "/?ntx_testimonial=honest-communication",
+        "title": "Honest Communication",
+        "excerpt": "Clear updates and realistic expectations.",
+        "content": "<p>Clear updates and realistic expectations.</p>\n",
+        "date": "2026-10-17T15:58:03+00:00",
+        "modified": "2026-10-25T12:23:59+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 53,
+            "ar": 102
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 102,
+        "type": "ntx_testimonial",
+        "slug": "تواصل-صادق",
+        "path": "/ar/?ntx_testimonial=تواصل-صادق",
+        "title": "تواصل صادق",
+        "excerpt": "تحديثات واضحة وتوقعات واقعية.",
+        "content": "<p>تحديثات واضحة وتوقعات واقعية.</p>\n",
+        "date": "2026-10-17T15:58:03+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 102,
+            "en": 53
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 54,
+        "type": "ntx_testimonial",
+        "slug": "creative-thinking",
+        "path": "/?ntx_testimonial=creative-thinking",
+        "title": "Creative Thinking",
+        "excerpt": "Fresh ideas built around your brand.",
+        "content": "<p>Fresh ideas built around your brand.</p>\n",
+        "date": "2026-10-17T15:58:08+00:00",
+        "modified": "2026-10-25T12:23:59+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 54,
+            "ar": 103
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 103,
+        "type": "ntx_testimonial",
+        "slug": "تفكير-إبداعي",
+        "path": "/ar/?ntx_testimonial=تفكير-إبداعي",
+        "title": "تفكير إبداعي",
+        "excerpt": "أفكار جديدة مبنية حول علامتك التجارية.",
+        "content": "<p>أفكار جديدة مبنية حول علامتك التجارية.</p>\n",
+        "date": "2026-10-17T15:58:08+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 103,
+            "en": 54
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 55,
+        "type": "ntx_testimonial",
+        "slug": "business-first",
+        "path": "/?ntx_testimonial=business-first",
+        "title": "Business First",
+        "excerpt": "Solutions focused on your real goals.",
+        "content": "<p>Solutions focused on your real goals.</p>\n",
+        "date": "2026-10-17T15:58:13+00:00",
+        "modified": "2026-10-25T12:23:59+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 55,
+            "ar": 104
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 104,
+        "type": "ntx_testimonial",
+        "slug": "عملك-أولاً",
+        "path": "/ar/?ntx_testimonial=عملك-أولاً",
+        "title": "عملك أولاً",
+        "excerpt": "حلول تركّز على أهدافك الحقيقية.",
+        "content": "<p>حلول تركّز على أهدافك الحقيقية.</p>\n",
+        "date": "2026-10-17T15:58:13+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 104,
+            "en": 55
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 56,
+        "type": "ntx_testimonial",
+        "slug": "personal-attention",
+        "path": "/?ntx_testimonial=personal-attention",
+        "title": "Personal Attention",
+        "excerpt": "Your project gets the care it deserves.",
+        "content": "<p>Your project gets the care it deserves.</p>\n",
+        "date": "2026-10-17T15:58:18+00:00",
+        "modified": "2026-10-25T12:23:59+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 4,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 56,
+            "ar": 105
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 105,
+        "type": "ntx_testimonial",
+        "slug": "اهتمام-شخصي",
+        "path": "/ar/?ntx_testimonial=اهتمام-شخصي",
+        "title": "اهتمام شخصي",
+        "excerpt": "مشروعك ينال العناية التي يستحقها.",
+        "content": "<p>مشروعك ينال العناية التي يستحقها.</p>\n",
+        "date": "2026-10-17T15:58:18+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 4,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 105,
+            "en": 56
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 57,
+        "type": "ntx_testimonial",
+        "slug": "quality-matters",
+        "path": "/?ntx_testimonial=quality-matters",
+        "title": "Quality Matters",
+        "excerpt": "Thoughtful work with attention to detail.",
+        "content": "<p>Thoughtful work with attention to detail.</p>\n",
+        "date": "2026-10-17T15:58:23+00:00",
+        "modified": "2026-10-25T12:23:59+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 5,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 57,
+            "ar": 106
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 106,
+        "type": "ntx_testimonial",
+        "slug": "الجودة-تهمّنا",
+        "path": "/ar/?ntx_testimonial=الجودة-تهمّنا",
+        "title": "الجودة تهمّنا",
+        "excerpt": "عمل متقن مع اهتمام بالتفاصيل.",
+        "content": "<p>عمل متقن مع اهتمام بالتفاصيل.</p>\n",
+        "date": "2026-10-17T15:58:23+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 5,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 106,
+            "en": 57
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 58,
+        "type": "ntx_testimonial",
+        "slug": "growing-together",
+        "path": "/?ntx_testimonial=growing-together",
+        "title": "Growing Together",
+        "excerpt": "A collaborative approach to long-term success.",
+        "content": "<p>A collaborative approach to long-term success.</p>\n",
+        "date": "2026-10-17T15:58:29+00:00",
+        "modified": "2026-10-25T12:23:59+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 6,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "en",
+        "translations": {
+            "en": 58,
+            "ar": 107
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    },
+    {
+        "id": 107,
+        "type": "ntx_testimonial",
+        "slug": "ننمو-معاً",
+        "path": "/ar/?ntx_testimonial=ننمو-معاً",
+        "title": "ننمو معاً",
+        "excerpt": "نهج تعاوني لتحقيق نجاح طويل الأمد.",
+        "content": "<p>نهج تعاوني لتحقيق نجاح طويل الأمد.</p>\n",
+        "date": "2026-10-17T15:58:29+00:00",
+        "modified": "2026-10-25T13:00:56+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 6,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "lang": "ar",
+        "translations": {
+            "ar": 107,
+            "en": 58
+        },
+        "meta": {
+            "ntx_role": "",
+            "ntx_video": ""
+        }
+    }
+]
